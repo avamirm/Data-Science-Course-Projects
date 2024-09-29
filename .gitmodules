@@ -1,0 +1,3 @@
+[submodule "Web-Scraping"]
+	path = Web-Scraping
+	url = git@github.com:avamirm/Web-Scraping.git
