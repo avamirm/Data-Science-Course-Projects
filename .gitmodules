@@ -1,3 +1,6 @@
 [submodule "Web-Scraping"]
 	path = Web-Scraping
 	url = git@github.com:avamirm/Web-Scraping.git
+[submodule "implementation-of-some-tools-for-statistical-analysis"]
+	path = implementation-of-some-tools-for-statistical-analysis
+	url = git@github.com:avamirm/implementation-of-some-tools-for-statistical-analysis.git
