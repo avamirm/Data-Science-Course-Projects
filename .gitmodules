@@ -13,3 +13,6 @@
 [submodule "Regression-Analysis-Using-Diabetes-Dataset"]
 	path = Regression-Analysis-Using-Diabetes-Dataset
 	url = git@github.com:avamirm/Regression-Analysis-Using-Diabetes-Dataset.git
+[submodule "Multivariate-Regression-Cross-Validation"]
+	path = Multivariate-Regression-Cross-Validation
+	url = git@github.com:avamirm/Multivariate-Regression-Cross-Validation.git
