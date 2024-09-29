@@ -22,3 +22,6 @@
 [submodule "Semi-Supervised-Learning-Using-Label_Propagation-LLMs"]
 	path = Semi-Supervised-Learning-Using-Label_Propagation-LLMs
 	url = git@github.com:avamirm/Semi-Supervised-Learning-Using-Label_Propagation-LLMs.git
+[submodule "Prior-Criminal-Analysis"]
+	path = Prior-Criminal-Analysis
+	url = git@github.com:avamirm/Prior-Criminal-Analysis.git
