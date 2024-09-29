@@ -16,3 +16,6 @@
 [submodule "Multivariate-Regression-Cross-Validation"]
 	path = Multivariate-Regression-Cross-Validation
 	url = git@github.com:avamirm/Multivariate-Regression-Cross-Validation.git
+[submodule "Unsupervised-Learning-Using-Dimensionality-Reduction"]
+	path = Unsupervised-Learning-Using-Dimensionality-Reduction
+	url = git@github.com:avamirm/Unsupervised-Learning-Using-Dimensionality-Reduction.git
