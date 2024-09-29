@@ -19,3 +19,6 @@
 [submodule "Unsupervised-Learning-Using-Dimensionality-Reduction"]
 	path = Unsupervised-Learning-Using-Dimensionality-Reduction
 	url = git@github.com:avamirm/Unsupervised-Learning-Using-Dimensionality-Reduction.git
+[submodule "Semi-Supervised-Learning-Using-Label_Propagation-LLMs"]
+	path = Semi-Supervised-Learning-Using-Label_Propagation-LLMs
+	url = git@github.com:avamirm/Semi-Supervised-Learning-Using-Label_Propagation-LLMs.git
