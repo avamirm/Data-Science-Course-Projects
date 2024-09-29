@@ -10,3 +10,6 @@
 [submodule "Investigation-Using-PySpark"]
 	path = Investigation-Using-PySpark
 	url = git@github.com:avamirm/Investigation-Using-PySpark.git
+[submodule "Regression-Analysis-Using-Diabetes-Dataset"]
+	path = Regression-Analysis-Using-Diabetes-Dataset
+	url = git@github.com:avamirm/Regression-Analysis-Using-Diabetes-Dataset.git
