@@ -4,3 +4,6 @@
 [submodule "implementation-of-some-tools-for-statistical-analysis"]
 	path = implementation-of-some-tools-for-statistical-analysis
 	url = git@github.com:avamirm/implementation-of-some-tools-for-statistical-analysis.git
+[submodule "EDA-techniques"]
+	path = EDA-techniques
+	url = git@github.com:avamirm/EDA-techniques.git
